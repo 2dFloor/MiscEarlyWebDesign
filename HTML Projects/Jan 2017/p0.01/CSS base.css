@@ -1,0 +1,37 @@
+
+#base {
+	height: 400px;
+	width: 400px;
+	background: rgb(0,0,0);
+	position: relative;
+}
+
+.square {
+	height: 196px;
+	width: 196px;
+	position: absolute;
+}
+
+#square1 {
+	background: red;
+	left: 2px;
+	top: 2px;
+}
+
+#square2 {
+	background: blue;
+	left: 202px;
+	top: 2px;
+}
+
+#square3 {
+	background: yellow;
+	left: 2px;
+	top: 202px;
+}
+
+#square4 {
+	background: green;
+	left: 202px;
+	top: 202px;
+}

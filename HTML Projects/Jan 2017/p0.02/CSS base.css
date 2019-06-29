@@ -1,0 +1,37 @@
+
+#container {
+	height: 400px;
+	width: 400px;
+	background: rgb(0,0,0);
+	position: relative;
+}
+
+.square {
+	height: 196px;
+	width: 196px;
+	position: absolute;
+}
+
+#square1 {
+	background: red;
+	left: 2px;
+	top: 2px;
+}
+
+#square2 {
+	background: blue;
+	right: 2px;
+	top: 2px;
+}
+
+#square3 {
+	background: yellow;
+	left: 2px;
+	bottom: 2px;
+}
+
+#square4 {
+	background: green;
+	right: 2px;
+	bottom: 2px;
+}
